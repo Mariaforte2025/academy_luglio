@@ -1,3 +1,8 @@
+lista:
+oggi vado al cinema
+domani al mare
+dopo domani pasta al forno
+
 # academy_luglio
 weojfousezgfigjenvdfpxvdjbx
 fsgedxfb dfc
@@ -26,3 +31,4 @@ Lista della spesa
 
 provaaaaaaa
 xxxxxxxxxxxx
+
