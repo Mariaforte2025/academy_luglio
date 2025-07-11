@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# academy_luglio
+=======
 # academy_luglio
 # Appuntamenti Personali – Prossimi Giorni
 
