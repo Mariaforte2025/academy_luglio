@@ -1,1 +1,5 @@
-# academy_luglio
+lezione
+viggio
+serata
+lavoro
+dentista
