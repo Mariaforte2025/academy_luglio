@@ -1,7 +1,6 @@
 
-
 # academy_luglio
-# 1)Fare la spesa
-# 2)uscire fuori 
-# 3)andare al maregasfas
+# 1)fare la spesa
+# 2)uscire con amici
+# 3)andare al mare
 
