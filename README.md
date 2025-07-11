@@ -1,4 +1,4 @@
-lista:
+
 oggi vado al cinema
 domani al mare
 dopo domani pasta al forno
@@ -27,8 +27,3 @@ Lista della spesa
 - Pesto
 - Frutta
 - Gelati
-
-
-provaaaaaaa
-xxxxxxxxxxxx
-
