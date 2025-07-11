@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# academy_luglio
-=======
+
 # academy_luglio
 LISTA APPUNTAMENTI NEI PROSSIMI GIORNI 
 # Appuntamenti Personali – Prossimi Giorni
@@ -14,7 +12,7 @@ LISTA APPUNTAMENTI NEI PROSSIMI GIORNI
 - **10:00** – Visita medica di controllo  
 - **13:00** – Pranzo con amici al ristorante  
 - **16:30** – Lezione di chitarra  
-
+gg
 ## Domenica 14 luglio
 - **11:00** – Passeggiata al parco con il cane  
 - **15:00** – Lettura libro e relax  
