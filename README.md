@@ -52,3 +52,4 @@ LISTA APPUNTAMENTI NEI PROSSIMI GIORNI
 - **10:00** – Appuntamento in banca  
 - **14:00** – Videochiamata con parenti  
 - **19:30** – Cena a casa con amici  
+# academy_luglio
