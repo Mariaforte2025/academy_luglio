@@ -1,9 +1,4 @@
-# academy_luglio
-weojfousezgfigjenvdfpxvdjbx
-fsgedxfb dfc
-gygugproco
-giacomo
-davide
-lautaro
-veretout
-vitinha
+lista:
+oggi vado al cinema
+domani al mare
+dopo domani pasta al forno
