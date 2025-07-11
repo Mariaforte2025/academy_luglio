@@ -10,5 +10,9 @@ Lista della spesa
 - Pane
 - Pesto
 - Frutta
+<<<<<<< HEAD
 - Ghiaccioli
 >>>>>>> 0fdd18f (update README)
+=======
+- Gelati
+>>>>>>> 44a405b (updateREADME)
