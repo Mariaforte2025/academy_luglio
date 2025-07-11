@@ -1,5 +1,8 @@
 # academy_luglio
+<<<<<<< HEAD
 LISTA APPUNTAMENTI NEI PROSSIMI GIORNI 
+=======
+>>>>>>> f352cdb (Aggiornamento README)
 # Appuntamenti Personali – Prossimi Giorni
 
 ## Venerdì 12 luglio
@@ -25,6 +28,7 @@ LISTA APPUNTAMENTI NEI PROSSIMI GIORNI
 ## Martedì 16 luglio
 - **10:00** – Appuntamento in banca  
 - **14:00** – Videochiamata con parenti  
+<<<<<<< HEAD
 - **19:30** – Cena a casa con amici  
 # Appuntamenti Personali – Prossimi Giorni
 
@@ -53,3 +57,6 @@ LISTA APPUNTAMENTI NEI PROSSIMI GIORNI
 - **14:00** – Videochiamata con parenti  
 - **19:30** – Cena a casa con amici  
 # academy_luglio
+=======
+- **19:30** – Cena a casa con amici  
+>>>>>>> f352cdb (Aggiornamento README)
