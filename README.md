@@ -1,3 +1,4 @@
+
 # academy_luglio
 weojfousezgfigjenvdfpxvdjbx
 fsgedxfb dfc
@@ -14,3 +15,12 @@ vitinha
 3. Mangiare
 4. Partecipare alle prossime academy
 5. Dormire
+
+
+Lista della spesa
+- Acqua
+- Pane
+- Pesto
+- Frutta
+- Ghiaccioli
+
