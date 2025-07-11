@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# academy_luglio
+=======
 # academy_luglio
 LISTA APPUNTAMENTI NEI PROSSIMI GIORNI 
 # Appuntamenti Personali – Prossimi Giorni
