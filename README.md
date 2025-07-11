@@ -2,4 +2,4 @@ lezione
 viggio
 serata
 lavoro
-dentista
+dottore
