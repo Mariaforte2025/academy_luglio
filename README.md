@@ -4,4 +4,4 @@ Lista della spesa
 - Pane
 - Pesto
 - Frutta
-- Ghiaccioli
+- Gelati
