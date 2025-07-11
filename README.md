@@ -1,9 +1,29 @@
-lezione
-viggio
-serata
-lavoro
-dottore
-<<<<<<< HEAD
-=======
-gegf
->>>>>>> 01fac5927191f16d997a2a2f7b3c520540339e65
+
+oggi vado al cinema
+domani al mare
+dopo domani pasta al forno
+
+# academy_luglio
+weojfousezgfigjenvdfpxvdjbx
+fsgedxfb dfc
+gygugproco
+giacomo
+davide
+lautaro
+veretout
+vitinha
+
+
+1. Assicurazione
+2. Dormire
+3. Mangiare
+4. Partecipare alle prossime academy
+5. Dormire
+
+
+Lista della spesa
+- Acqua
+- Pane
+- Pesto
+- Frutta
+- Gelati
