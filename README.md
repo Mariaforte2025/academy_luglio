@@ -1,1 +1,5 @@
-BASTAAAAAAAAAA
+lezione
+viggio
+serata
+lavoro
+dentista
