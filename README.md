@@ -1,4 +1,13 @@
 # academy_luglio
+weojfousezgfigjenvdfpxvdjbx
+fsgedxfb dfc
+gygugproco
+giacomo
+davide
+lautaro
+veretout
+vitinha
+
 
 1. Assicurazione
 2. Dormire
