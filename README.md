@@ -2,3 +2,8 @@
 weojfousezgfigjenvdfpxvdjbx
 fsgedxfb dfc
 gygugproco
+giacomo
+davide
+lautaro
+veretout
+vitinha
